@@ -29,7 +29,7 @@ spec:
         component: backend-server
         name: api-tester
         instance: api-tester-2233
-        version: 1.0.0
+        version: 2.0.0
     spec:
       nodeSelector:
         worker: monitoring
